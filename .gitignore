@@ -349,7 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-
+/.vs
 /ConsolApp1/.vs
 /ConsolApp2/.vs
 /ConsolApp1/bin
